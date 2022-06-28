@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/luís felipe kvieczinski leal da silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luís felipe kvieczinski leal da silva" height="30" width="40" /></a>
 </p>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kv1ecz&show_icons=true&locale=en&layout=compact" alt="kv1ecz" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kv1ecz&show_icons=true&locale=en" alt="kv1ecz" /></p>

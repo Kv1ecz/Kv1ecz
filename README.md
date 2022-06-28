@@ -13,7 +13,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kv1ecz&show_icons=true&locale=en&layout=compact" alt="kv1ecz" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kv1ecz&show_icons=true&locale=en" alt="kv1ecz" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kv1ecz&" alt="kv1ecz" /></p>
